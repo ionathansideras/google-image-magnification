@@ -33,24 +33,25 @@ Google Image Magnification is a Chrome extension that enhances your experience w
 
 ## Examples
 
-Activate the service and refresh
+Activate the service and refresh.
 
 ![Activate Magnification](assets/activate.png)
 
-Navigate to the google images and click one that you want to magnify
+Navigate to Google Images and click on the image that you want to magnify.
 
 ![Target Magnification](assets/target.png)
 
-Loading
+Loading...
+
 ![Loading Magnification](assets/loading.png)
 
-And now your clicked image is magnified
+Your clicked image is now magnified.
 
 ![Open Magnification](assets/open.png)
 
-Click anywhere outside of the picture border to close the image
+Click anywhere outside of the picture border to close the image.
 
-![exit Magnification](assets/exit.png)
+![Exit Magnification](assets/exit.png)
 
 ## License
 
