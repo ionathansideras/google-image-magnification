@@ -48,7 +48,7 @@ And now your clicked image is magnified
 
 ![Open Magnification](assets/open.png)
 
-Click anyware outside of the picture border to close the image
+Click anywhere outside of the picture border to close the image
 
 ![exit Magnification](assets/exit.png)
 
