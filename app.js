@@ -124,6 +124,7 @@ function createLoadingSkeleton() {
 function createImageAndCover(src) {
     const newImg = new Image();
     newImg.src = src;
+    newImg.alt = "Zoomed Image";
     newImg.id = "zoomed-image";
     Object.assign(newImg.style, imageStyles);
 
